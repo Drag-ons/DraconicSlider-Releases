@@ -14,7 +14,7 @@ Latest Version: **0.3.2**
 
 # How To Download
 
-**Go To** https://github.com/Drag-ons/DraconicSlider/releases
+**Go To** https://github.com/Drag-ons/DraconicSlider-Releases/releases
 
 # How To Install
 
