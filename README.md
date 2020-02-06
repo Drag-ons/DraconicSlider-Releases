@@ -1,4 +1,4 @@
-# DraconicSlider
+# Draconic Slider
 
 Welcome to Draconic slider the go to slideshow application for e621/e926
 
@@ -10,7 +10,7 @@ Latest Version: **0.3.2**
 
 * Automatic slideshow that allows you to browse hands free with a configurable timer.
 
-* Being able to switch from one site to the other (e621/e926) with one slider.
+* Being able to switch from one site to the other (e621/e926) with one toggle.
 
 # How To Download
 
