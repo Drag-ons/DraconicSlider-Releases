@@ -2,11 +2,11 @@
 
 Welcome to Draconic slider the go to slideshow application for e621/e926
 
-Latest Version: **0.3.2**
+Latest Version: **0.4.0**
 
 # Features
 
-* Allows you to search, scroll and slideshow your favorite images.
+* Allows you to search, download and slideshow your favorite images.
 
 * Automatic slideshow that allows you to browse hands free with a configurable timer.
 
