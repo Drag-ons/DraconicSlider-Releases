@@ -2,7 +2,7 @@
 
 Welcome to Draconic slider the go to slideshow application for e621/e926
 
-Latest Version: **0.4.0**
+Latest Version: **0.5.0**
 
 # Features
 
